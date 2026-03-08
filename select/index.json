@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Sleepwalking",
+  "base_artist": "The Chain Gang of 1974",
+  "createdAt": "2026-03-08T11:04:07.759710Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sleepwalking",
+      "artist": "Lindsey Stirling",
+      "has_synced": true,
+      "path": "select/01_Sleepwalking_Lindsey_Stirling.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sleepwalking",
+      "artist": "Radical Face",
+      "has_synced": false,
+      "path": "select/02_Sleepwalking_Radical_Face.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sleepwalking 1",
+      "artist": "Throwing Muses",
+      "has_synced": true,
+      "path": "select/03_Sleepwalking_1_Throwing_Muses.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sleepwalking",
+      "artist": "Deerhunter",
+      "has_synced": true,
+      "path": "select/04_Sleepwalking_Deerhunter.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sleepwalking",
+      "artist": "Everything Is Made In China",
+      "has_synced": true,
+      "path": "select/05_Sleepwalking_Everything_Is_Made_In_China.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sleepwalking Past Hope",
+      "artist": "HIM",
+      "has_synced": false,
+      "path": "select/06_Sleepwalking_Past_Hope_HIM.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sleepwalking Past Hope",
+      "artist": "HIM",
+      "has_synced": true,
+      "path": "select/07_Sleepwalking_Past_Hope_HIM.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sleepwalking Past Hope - Live In Toronto",
+      "artist": "HIM",
+      "has_synced": false,
+      "path": "select/08_Sleepwalking_Past_Hope_-_Live_In_Toronto_HIM.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sleepwalking",
+      "artist": "Photek feat. Linche",
+      "has_synced": true,
+      "path": "select/09_Sleepwalking_Photek_feat._Linche.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sleepwalking (Feat. Linche)",
+      "artist": "Photek",
+      "has_synced": true,
+      "path": "select/10_Sleepwalking_(Feat._Linche)_Photek.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sleepwalking (feat. Linche)",
+      "artist": "Photek",
+      "has_synced": true,
+      "path": "select/11_Sleepwalking_(feat._Linche)_Photek.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Susan Sleepwalking",
+      "artist": "The Pooh Sticks",
+      "has_synced": false,
+      "path": "select/12_Susan_Sleepwalking_The_Pooh_Sticks.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sleepwalking",
+      "artist": "Avantasia",
+      "has_synced": true,
+      "path": "select/13_Sleepwalking_Avantasia.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sleepwalking",
+      "artist": "Tobias Sammet's Avantasia",
+      "has_synced": true,
+      "path": "select/14_Sleepwalking_Tobias_Sammet's_Avantasia.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sleepwalking",
+      "artist": "Diamante",
+      "has_synced": true,
+      "path": "select/15_Sleepwalking_Diamante.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sleepwalking",
+      "artist": "Bleached",
+      "has_synced": true,
+      "path": "select/16_Sleepwalking_Bleached.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sleepwalking",
+      "artist": "Kittie",
+      "has_synced": true,
+      "path": "select/17_Sleepwalking_Kittie.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Sleepwalking",
+      "artist": "Modest Mouse",
+      "has_synced": false,
+      "path": "select/18_Sleepwalking_Modest_Mouse.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Sleepwalking",
+      "artist": "Queenadreena",
+      "has_synced": true,
+      "path": "select/19_Sleepwalking_Queenadreena.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Sleepwalking (Couples Only Dance Prom Night)",
+      "artist": "Modest Mouse",
+      "has_synced": false,
+      "path": "select/20_Sleepwalking_(Couples_Only_Dance_Prom_Night)_Modest_Mouse.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sleepwalking",
+      "artist": "The Chain Gang Of 1974",
+      "has_synced": false,
+      "path": "select/pl_01_Sleepwalking_The_Chain_Gang_Of_1974.txt"
+    }
+  ]
+}
